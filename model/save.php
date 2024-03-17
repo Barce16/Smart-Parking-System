@@ -24,9 +24,9 @@ function save($data)
 
 
      if ($conn->query($query) === TRUE) {
-        header("location: /Event-Driven/registration.php?success");
+        header("location: /Smart-Parking-System/profile.php?success");
     } else {
-        header("location: /Event-Driven/registration.php?invalid");
+        header("location: /Smart-Parking-System/registration.php?invalid");
      }
 
     $conn->close(); 

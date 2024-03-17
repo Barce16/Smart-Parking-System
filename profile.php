@@ -41,7 +41,7 @@
             <div class="collapse navbar-collapse" id="mynavbar">
                 <ul class="navbar-nav me-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="./index.php">Home</a>
+                        <a class="nav-link" href="./index2.php">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="./profile.php">Profile</a>
@@ -57,8 +57,12 @@
     </nav>
     <!-- For Text/Typography Front -->
     <div class="container-fluid mb-5">
-        <p class="h1 mt-2">Reservation</p>
-        <p class="mt-2">Reserve now!!</p>
+        <p class="h1 mt-2">YOUR PROFILE</p>
+        <!-- image -->
+        <a class="navbar-brand" href="javascript:void(0)">
+                <img src="./assets/img/sport-car.png" height="50">
+            </a>
+         <!-- image -->    
         <div class="card mt-2">
             <div class="card-header" style="text-align : center;"><-----List of Vacant Space-----></div>
             <div class="card-body"> <strong> </strong>

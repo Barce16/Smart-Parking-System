@@ -1,5 +1,5 @@
 <?php
-include('../Event-Driven/config/database.php');
+include('../Smart-Parking-System/config/database.php');
 
 $value = $_POST['search'];// data that connect to function search.js
 
